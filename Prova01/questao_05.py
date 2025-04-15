@@ -29,5 +29,5 @@ for nota in notas:
 
 # Exibe os resultados
 print("Média da turma: ", media:.2f)
-print(f"Notas mais de 10% acima da média: ", acima)
-print(f"Notas menos de 10% abaixo da média: ", abaixo)
+print("Notas mais de 10% acima da média: ", acima)
+print("Notas menos de 10% abaixo da média: ", abaixo)
